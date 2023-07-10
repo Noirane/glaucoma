@@ -2,6 +2,18 @@
 
 Projeto desenvolvido no mestrado em Ciência da computação, na disciplina de visão computacional. 
 
+# Exemplos de previsões experimento 1
+
+
+![previsoesEx1](https://github.com/Noirane/glaucoma/assets/79718537/e1055008-ff93-47b0-9ec9-327315c08450)
+
+
+# Exemplos de previsões experimento 2
+
+
+![previsoes002](https://github.com/Noirane/glaucoma/assets/79718537/3801b96d-b228-4a7a-a7d8-9aab7ffb64ff)
+
+
 O AIROGS Dataset consiste em uma coleção de imagens coloridas do fundo do olho de 60.357 indivíduos, totalizando 113.893 imagens, com várias dimensões. O conjunto de dados inclui indivíduos de aproximadamente 500 locais diferentes, representando uma população étnica diversificada. Uma tabela é fornecida, contendo duas colunas: challenge\_id, que inclui os nomes das imagens, e class, que indica a classificação como: glaucoma remissível (RG) ou glaucoma não remissível (NRG)
 
 Como os rótulos de treinamento não continham informações sobre a localização do disco óptico, foi necessário realizar a segmentação manual. No experimento 1, 4.177 imagens foram redimensionadas para 512x512 pixels. Em seguida, 500 dessas imagens passaram por marcação manual do disco óptico por meio do aplicativo LabelImg. Cada imagem rotulada tinha uma anotação XML indicando a localização do disco óptico. As 500 imagens, junto com suas anotações XML, foram usadas como entrada para o Detectron 2 gerar 4.177 discos ópticos recortados com dimensões de 390x390 pixels. 
@@ -20,10 +32,6 @@ Nos experimentos 2 e 3, foram utilizadas 1.000 imagens do fundo de olho com disc
 
 ![experiment001 (1)](https://github.com/Noirane/glaucoma/assets/79718537/51b1f0d4-cbb3-4428-90fb-f5b91f0976ff)
 
-# Exemplos de previsões experimento 1
-
-
-![previsoesEx1](https://github.com/Noirane/glaucoma/assets/79718537/e1055008-ff93-47b0-9ec9-327315c08450)
 
 
 # Fluxo de trabalho experimento 2 
@@ -32,10 +40,7 @@ Nos experimentos 2 e 3, foram utilizadas 1.000 imagens do fundo de olho com disc
 ![experiment002](https://github.com/Noirane/glaucoma/assets/79718537/2eceeb65-58a5-4575-8a71-7cb0b7efb366)
 
 
-# Exemplos de previsões experimento 2
 
-
-![previsoes002](https://github.com/Noirane/glaucoma/assets/79718537/3801b96d-b228-4a7a-a7d8-9aab7ffb64ff)
 
 
 
