@@ -16,23 +16,23 @@ Nos experimentos 2 e 3, foram utilizadas 1.000 imagens do fundo de olho com disc
 
 
 
-Fluxo de trabalho experimento 1
+# Fluxo de trabalho experimento 1
 
 ![experiment001 (1)](https://github.com/Noirane/glaucoma/assets/79718537/51b1f0d4-cbb3-4428-90fb-f5b91f0976ff)
 
-Exemplos de previsões experimento 1
+# Exemplos de previsões experimento 1
 
 
 ![previsoesEx1](https://github.com/Noirane/glaucoma/assets/79718537/e1055008-ff93-47b0-9ec9-327315c08450)
 
 
-Fluxo de trabalho experimento 2 
+# Fluxo de trabalho experimento 2 
 
 
 ![experiment002](https://github.com/Noirane/glaucoma/assets/79718537/2eceeb65-58a5-4575-8a71-7cb0b7efb366)
 
 
-Exemplos de previsões experimento 2
+# Exemplos de previsões experimento 2
 
 
 ![previsoes002](https://github.com/Noirane/glaucoma/assets/79718537/3801b96d-b228-4a7a-a7d8-9aab7ffb64ff)
